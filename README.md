@@ -1,2 +1,3 @@
 # OIBSIP
-Python Prgramming Intenship Projects - Oasis Infobyte
+
+Python Programming Internship Projects - Oasis Infobyte
